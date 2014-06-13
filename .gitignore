@@ -1,0 +1,5 @@
+*.csv
+config.py
+ghostdriver.log
+*.py[co]
+*.ipynb*
